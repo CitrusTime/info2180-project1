@@ -155,7 +155,7 @@ header nav a {
     padding: 20px 0;
 }
 
-.stories article :is(h2, h3, a) {
+.stories :is(h2, h3, a) {
     color: #5A67D8;
 }
 
